@@ -260,10 +260,6 @@ hr {
 }
 
 .primary-button:hover {
-  padding: 15px 25px;
-  font-family: "Lato", serif;
-  font-size: 18px;
-  border-radius: 10px;
   cursor: pointer;
   box-shadow: 2px 2px 4px darkslategray;
   color: white;
@@ -271,11 +267,6 @@ hr {
 
 .primary-button:active {
   background-color: black;
-  color: white;
-  padding: 15px 25px;
-  border: transparent;
-  font-family: "Lato", serif;
-  font-size: 18px;
-  border-radius: 10px;
+  box-shadow: 2px 2px 4px darkslategray;
   cursor: pointer;
 }
