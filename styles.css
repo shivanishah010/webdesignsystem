@@ -163,15 +163,15 @@ a:hover {
   font-family: "Lato", sans-serif;
   font-weight: normal;
   text-align: left;
-  line-height: 4em;
+  line-height: 1.5em;
 }
 
 .figcaption {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   text-align: left;
-  font-size: 16px;
-  line-height: 4em;
+  font-size: 14px;
+  line-height: 1.5em;
 }
 
 .blockquote {
