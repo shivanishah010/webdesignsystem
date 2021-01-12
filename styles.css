@@ -163,7 +163,7 @@ a:hover {
   font-family: "Lato", sans-serif;
   font-weight: normal;
   text-align: left;
-  line-height: 18px;
+  line-height: 4em;
 }
 
 .figcaption {
@@ -171,7 +171,7 @@ a:hover {
   font-weight: 400;
   text-align: left;
   font-size: 16px;
-  line-height: 18px;
+  line-height: 4em;
 }
 
 .blockquote {
@@ -231,7 +231,7 @@ a:hover {
 .site-colors {
   padding: 25px 55px;
   text-transform: uppercase;
-  width: 120px;
+  width: 500px;
   margin-bottom: 35px;
   margin-right: 40px;
 }
@@ -240,6 +240,10 @@ a:hover {
 
 hr {
   clear: left;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 /* BUTTONS */
